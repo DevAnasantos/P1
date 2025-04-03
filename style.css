@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    display: grid;
+}
+.tem{
+    background-color: aqua;
+    padding: 34px;
+    margin: 20px;
+}
